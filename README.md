@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=mango-lzp)](https://github.com/mango-lzp/github-readme-stats)
+[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=cc-lgtm)](https://github.com/mango-lzp/github-readme-stats)
