@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 [![Mango's github stats](https://github-readme-stats.vercel.app/api?username=cc-lgtm&show_icons=true)](https://github.com/mango-lzp/github-readme-stats)
 ![Mango's github used-language](https://github-readme-stats.vercel.app/api/top-langs/?username=cc-lgtm&layout=compact&hide=html)
 ![Mango's github contribution](https://github-readme-streak-stats.herokuapp.com/?user=programmer-zhang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cc-lgtm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=cc-lgtm)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
